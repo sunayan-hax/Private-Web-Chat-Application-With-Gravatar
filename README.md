@@ -20,3 +20,7 @@ This is a node.js chat application powered by SockJS and ExpressJs.
 
 ## Live Demo
 ## Link : https://arcane-reef-23583.herokuapp.com/
+## Note:
+After Click ## Start Chat Here  Follow Below Instruction.
+
+![Chat Preview](https://www.dl.dropboxusercontent.com/s/83xu6tfds86vljd/unsafe%20script.png?dl=0)
